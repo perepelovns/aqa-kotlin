@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QUIZ</string>
+    <string name="home_fragment">Home_fragment</string>
+    <string name="Продолжить">Продолжить</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Начать_заново">Начать заново</string>
+    <string name="Назад">Назад</string>
+    <string name="Отправить">Отправить</string>
+    <string name="Начать">Начать</string>
+</resources>

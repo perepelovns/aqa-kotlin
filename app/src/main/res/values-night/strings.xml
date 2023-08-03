@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Продолжить">Продолжить</string>
+    <string name="Начать_заново">Начать заново</string>
+    <string name="Назад">Назад</string>
+    <string name="Отправить">Отправить</string>
+    <string name="Начать">Начать</string>
+</resources>
